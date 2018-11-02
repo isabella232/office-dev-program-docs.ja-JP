@@ -2,14 +2,15 @@
 title: Office 365 Developer Program FAQ
 description: Office 365 Developer Program に関するよく寄せられる質問。
 ms.date: 04/16/2018
-ms.openlocfilehash: 53e0f076aeb5d9a08ed1801d71b5dcd656c6fe14
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+ms.openlocfilehash: 7d02bed6ba67c2a0eac0db6674848d9e6f39630b
+ms.sourcegitcommit: 3651125e6eebc1d630436a260051eca929f3306b
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670373"
+ms.lasthandoff: 10/27/2018
+ms.locfileid: "25829253"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 Developer Program FAQ
+
 
 以下は、Office 365 Developer Program についてよく寄せられる質問です。
 
@@ -65,7 +66,7 @@ Microsoft の従業員はこのオファーにサインアップできません�
 
 ### <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>サブスクリプションの有効期限が近づいたら延長できますか?
 
-現時点では、既存のサブスクリプションは延長できません。 ただし年間 99.00 ドルの特別オプションを購入することでサブスクリプションを延長できます。 サブスクリプションの有効期限が近づいたら、更新のご案内が送られ、サブスクリプションの延長方法がそれに含まれます。
+現時点では、既存のサブスクリプションは延長できません。 ただし、年間にユーザーあたり 99.00 ドルの特別オプションを購入することでサブスクリプションを延長できます。 サブスクリプションの有効期限が近づいたら、更新のご案内が送られ、サブスクリプションの延長方法がそれに含まれます。
 
 <a name="account-types"> </a>
 
