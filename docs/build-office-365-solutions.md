@@ -2,12 +2,13 @@
 title: 開発者サブスクリプションを使用して Office 365 ソリューションを構築する
 description: Office 365 開発者向けサブスクリプションを使用して、ソリューションを構築します。
 ms.date: 03/20/2018
-ms.openlocfilehash: 1f77eaf2eaec4fe346c2effef3d6911bb4d84d4b
-ms.sourcegitcommit: b7da765007f295d17f23b7d4a638af760ecd3b96
+localization_priority: Priority
+ms.openlocfilehash: a42c5cb7c3ba6645e46c36fb22abd5da073fc06c
+ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25670345"
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28015122"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>開発者サブスクリプションを使用して Office 365 ソリューションを構築する
 
