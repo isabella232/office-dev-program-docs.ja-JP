@@ -5,7 +5,7 @@ ms.date: 03/20/2018
 localization_priority: Priority
 ms.openlocfilehash: 76d8523d6c86d2d5dc6b277999b4025d7027dbf0
 ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
-ms.translationtype: HT
+ms.translationtype: Auto
 ms.contentlocale: ja-JP
 ms.lasthandoff: 01/15/2019
 ms.locfileid: "28015129"
@@ -76,7 +76,7 @@ Office 365 開発者サブスクリプションをセットアップして、Off
 
 ## <a name="provision-office-365-services"></a>Office 365 サービスのプロビジョニング
 
-サブスクリプションの SharePoint や Exchange などのバックエンドサービスのプロビジョニングには、少々時間がかかります。 この手順では、アプリ起動ツールとホーム ページの中の一部のアイコンは**設定中 (このアプリはまだ設定中) **と表示されています。 1 時間もかからないでしょう。
+サブスクリプションの SharePoint や Exchange などのバックエンドサービスのプロビジョニングには、少々時間がかかります。 この手順では、アプリ起動ツールとホーム ページの中の一部のアイコンは**設定中 (このアプリはまだ設定中)** と表示されています。 1 時間もかからないでしょう。
 
 プロビジョニングを完了すると、開発およびテスト用の新しい Office 365 サブスクリプションを使用することができます。 サブスクリプションの有効期限は 1 年です。
 
