@@ -1,22 +1,22 @@
 ---
 title: Office 365 開発者プログラムに参加
 description: Office 365 開発プログラムに参加して、Office 365 のソリューションをご自分の運用環境で独自に開発やテストを行います。
-ms.date: 03/20/2018
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 9f2c07a16af6e164032c66c1ee93ee45417567ca
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
+ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015115"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31041985"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Office 365 開発者プログラムへようこそ
 
-Office 365 開発プログラムに、友人や同僚と一緒に参加しましょう。 Office 365 開発者サブスクリプションを使用して、Office 365 のソリューションをご自分の運用環境で独自に開発やテストを行います。 Microsoft Teams、Office アドイン、Microsoft Graph、SharePoint Framework、SharePoint アドイン、その他さまざまなソリューションを構築することができます。
+Office 365 開発プログラムに、友人や同僚と一緒に参加しましょう。 Office 365 開発者サブスクリプションを使用して、ソリューションをご自分の運用環境で独自に開発やテストを行います。 Microsoft Teams、Office アドイン、Microsoft Graph、SharePoint Framework、SharePoint アドイン、その他さまざまなソリューションを構築することができます。
 
 ## <a name="join-the-office-365-developer-program"></a>Office 365 開発者プログラムに参加
 
-1. [Office 365 開発者プログラムに参加](https://developer.microsoft.com/ja-JP/office/dev-program)のページに移動します。 
+1. [Office 365 開発者プログラムに参加](https://developer.microsoft.com/office/dev-program)のページに移動します。 
 
 2. 右上隅にある**サインイン**を選択し、Microsoft アカウント、または Azure Active Directory が有効化されたメール アドレスでサインインします。 
 
@@ -41,7 +41,7 @@ Office 365 開発プログラムに、友人や同僚と一緒に参加しまし
 8. **Office 365 開発者プログラムのユーザー設定**ページでユーザー設定を行うと、操作性をカスタマイズすることができます。たとえば、
 
   - 従事している業界。
-  - 開発の関心があるアプリケーションやソリューション。
+  - 開発に興味のあるアプリケーションやソリューションの種類。
   - 関心のある製品、テクノロジ、プログラミング言語。
 
   <img alt="Choose program preferences" src="images/2-preferences-page.png" width="600">
@@ -57,4 +57,8 @@ Office 365 開発プログラムに、友人や同僚と一緒に参加しまし
 
 - 開発者サブスクリプションを設定した後、[サブスクリプションを使用](build-office-365-solutions.md)して希望するソリューションの種類を設定します。
 
-- Office 365 開発者プログラムに関するよく寄せられる質問は、「[FAQ](office-365-developer-program-faq.md)」を参照してください。 
+- サブスクリプションの期限切れ情報については、[サブスクリプションの有効期限と更新](subscription-expiration-and-renewal.md)を参照してください。
+
+- Office 365 開発者プログラムに関するよく寄せられる質問は、「[FAQ](office-365-developer-program-faq.md)」を参照してください。
+
+

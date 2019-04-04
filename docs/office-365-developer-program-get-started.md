@@ -1,18 +1,18 @@
 ---
 title: Office 365 開発者サブスクリプションのセットアップ
-description: Office 365 開発者プログラムを使用して、Office 365 のソリューションをご自分の運用環境で独自に開発やテストを行います。
-ms.date: 03/20/2018
+description: 運用環境に依存しないソリューションを構築するためのOffice 365開発者サブスクリプションを設定します。
+ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 76d8523d6c86d2d5dc6b277999b4025d7027dbf0
-ms.sourcegitcommit: 5929843b58730078fa4a92a8cc3ab44291462585
-ms.translationtype: Auto
+ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
+ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28015129"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31042006"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Office 365 開発者サブスクリプションのセットアップ 
 
-Office 365 開発者サブスクリプションをセットアップして、Office 365 のソリューションをご自分の運用環境で独自に開発やテストを行います。 サブスクリプションは、25 ユーザー ライセンス付きの Office 365 Enterprise E3 開発者用のサブスクリプションです。 1 年間有効で、開発目的 (コーディングおよびテストのソリューション) に無料で使用できます。
+運用環境に依存しないソリューションを構築するためのOffice 365開発者サブスクリプションを設定します。 サブスクリプションは、25 ユーザー ライセンス付きの Office 365 Enterprise E3 開発者用のサブスクリプションです。 90日間有効で、開発目的 (コーディングのソリューション) に無料で使用できます。
 
 > [!NOTE] 
 > サブスクリプションを設定するには、まず[Office 365 開発者プログラムに参加](office-365-developer-program.md)します。 参加すると、サブスクリプションのセットアップのためのオプションが表示されます。
@@ -40,14 +40,14 @@ Office 365 開発者サブスクリプションをセットアップして、Off
 
 ## <a name="configure-the-subscription"></a>サブスクリプションの設定
 
-1. プロファイル ページで、[office.com](https://www.office.com/)のリンクを選択し、ユーザー ID (例: username@domain.onmicrosoft.com) と、開発者サブスクリプションに指定したパスワードでサインインします。
+1. あなたのプロフィールページで[office.com](https://www.office.com/)リンクを選択し、あなたのユーザID（例えばusername@domain.onmicrosoft.com) とあなたが開発者サブスクリプションのために指定したパスワードでサインインします。
 
    > [!NOTE] 
    > サブスクリプションへのサインインには、開発者プログラムの資格情報を使用しないでください。
 
 2. アプリ起動ツールを使用して、[管理センター](https://portal.office.com/adminportal/home#/homepage)へ移動します。
 
-3. 管理センターのホーム ページで、**設定へ移動**を選択します。 選択すると **Office 365 Enterprise E3 開発者向けの設定**ページへ移動します。
+3. 管理センターのホーム ページで、**設定へ移動**を選択します。 そうすると **Office 365 Enterprise E3 開発者向けの設定**ページへ移動します。
 
 4. **サインインとメールをカスタマイズ**。 サブスクリプションをドメインに接続することができます。また、作成した既存のサブドメインも使用できます。 準備ができたら、**次へ**を選択します。
 
@@ -56,7 +56,7 @@ Office 365 開発者サブスクリプションをセットアップして、Off
 5. **新規ユーザーの追加**。 ユーザーを追加できます。 テストするために必要な架空のユーザーでも、開発を支援する実際のユーザーでも構いません。 準備ができたら、**次へ**を選択します。
     
   > [!NOTE]
-  > ユーザーを一括で追加する場合は、後で行うことができます。 詳細については、「[Office 365 にユーザーを個別に、またはまとめて追加する - 管理者向けヘルプ](https://support.office.com/ja-JP/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec)」を参照してください。
+  > ユーザーを一括で追加する場合は、後で行うことができます。 詳細については、「[Office 365 にユーザーを個別に、またはまとめて追加する - 管理者向けヘルプ](https://support.office.com/article/add-users-individually-or-in-bulk-to-office-365-admin-help-1970f7d6-03b5-442f-b385-5880b9c256ec)」を参照してください。
 
 6. **ライセンスのないユーザーにライセンスを割り当てる**。 すべてのユーザーに関して、サブスクリプションで作業できるようにするには、ライセンスを付与します。 準備ができたら、**次へ**を選択します。
 
@@ -66,8 +66,8 @@ Office 365 開発者サブスクリプションをセットアップして、Off
 
   ![Office アプリのインストール](images/11-install-office-apps.png)
 
-   > [!NOTE] 
-   > 次回ダッシュ ボードにアクセスするときに、ダッシュ ボードに移動する前に *username@domain*.onmicrosoft.com アカウントでサインインします。
+   > [!TIP] 
+   > 次回ダッシュ ボードにアクセスするときに、ダッシュ ボードに移動する前に*username@domain*.onmicrosoft.com アカウントでサインインします。
 
 9. **設定が完了しました**。 サブスクリプションの設定が完了しました。 必要に応じて、この操作を評価できます。 準備ができたら、**管理センターに移動**を選択します。
     
@@ -78,22 +78,22 @@ Office 365 開発者サブスクリプションをセットアップして、Off
 
 サブスクリプションの SharePoint や Exchange などのバックエンドサービスのプロビジョニングには、少々時間がかかります。 この手順では、アプリ起動ツールとホーム ページの中の一部のアイコンは**設定中 (このアプリはまだ設定中)** と表示されています。 1 時間もかからないでしょう。
 
-プロビジョニングを完了すると、開発およびテスト用の新しい Office 365 サブスクリプションを使用することができます。 サブスクリプションの有効期限は 1 年です。
+プロビジョニングを完了すると、開発用の新しい Office 365 サブスクリプションを使用することができます。 サブスクリプションの有効期限は90日間です。 延長するには[サブスクリプションの有効期限が切れる前に延長できますか？](office-365-developer-program-faq.md#renew-subscription)を参照してください。
 
-また、リリース オプションを有効にして、できるだけ早く最新の Office 365 の機能へのアクセスできるようにすることをお勧めします。 詳細については、「[Office 365 で標準または対象指定リリース オプションを設定する](https://support.office.com/en-us/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47?ui=en-US&rs=en-US&ad=US)」を参照してください。
+また、リリース オプションを有効にして、できるだけ早く最新の Office 365 の機能へのアクセスできるようにすることをお勧めします。 詳細については、「[Office 365 で標準または対象指定リリース オプションを設定する](https://support.office.com/article/set-up-the-standard-or-targeted-release-options-in-office-365-3b3adfa4-1777-4ff0-b606-fb8732101f47)」を参照してください。
 
 ## <a name="set-up-a-microsoft-azure-account"></a>Microsoft Azure アカウントの設定
 
-一部の Office ソリューションでは、Azure サービスを利用してビルドやテストを行うために Microsoft Azure アカウントが必要になる場合があります。 無料の Azure アカウントを設定するには、「[Azure の無料アカウントを今すぐ作成しましょう](https://azure.microsoft.com/ja-JP/free/)」を参照してください。
+一部の Office ソリューションでは、Azure サービスを利用してビルドを行うために Microsoft Azure アカウントが必要になる場合があります。 無料の Azure アカウントを設定するには、「[Azure の無料アカウントを今すぐ作成しましょう](https://azure.microsoft.com/free/)」を参照してください。
 
-## <a name="leave-the-developer-program"></a>開発者プログラムを退会する
+## <a name="leave-the-office-365-developer-program"></a>Office 365 開発者プログラムを脱退します
 
 Office 365 の開発者プログラムに参加する必要がなくなった場合は、サブスクリプションを終了し、プログラムを退会できます。
 
   > [!WARNING]
   > 次の手順により、プロファイル情報がすべて消去されます。 開発者向けサブスクリプションに格納されていて、他の場所にバックアップされていないすべてのデータは失われます。
 
-1. 開発者プログラムにサインインします。
+1. Office 365 開発者プログラムにサインインします。
 
 2. **プロファイルの削除**を選択します。
 
@@ -102,5 +102,6 @@ Office 365 の開発者プログラムに参加する必要がなくなった場
 ## <a name="see-also"></a>関連項目
 
 - [Office 365 開発者プログラムに参加](office-365-developer-program.md)
-- [サブスクリプションを使用して Office 365 ソリューションを構築する](build-office-365-solutions.md)
+- [サブスクリプションを使用して Office 365 ソリューションを構築します](build-office-365-solutions.md)
+- [期限切れのサブスクリプションを更新します。](subscription-expiration-and-renewal.md)
 - [Office 365 開発者プログラム FAQ](office-365-developer-program-faq.md)
