@@ -3,12 +3,12 @@ title: 開発者サブスクリプションを使用して Office 365 ソリュ�
 description: Office 365 開発者向けサブスクリプションを使用して、ソリューションを構築します。
 ms.date: 03/20/2018
 localization_priority: Priority
-ms.openlocfilehash: 375514e1bc42742810c4d8a56a59fe24140abb27
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 624ff0c7feb8eb5a824c68e337c48bff39aed747
+ms.sourcegitcommit: 49693a2a5529e1371f0f9fac4e6f6db7dcbf010a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31041999"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31808101"
 ---
 # <a name="use-your-developer-subscription-to-build-office-365-solutions"></a>開発者サブスクリプションを使用して Office 365 ソリューションを構築する
 
@@ -24,7 +24,7 @@ Microsoft Teams をセットアップしてコーディングする方法は次�
 2. 開発環境をセットアップします。 どんな種類のアプリやサービスを構築するかに応じて、その手順は異なります。 詳細については、次のいずれかを参照してください。
 
   - [Node.jsを使ってMicrosoft Teamsプラットフォームを始めましょう](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - [Microsoft Teams プラットフォームで C#/.NET を使い始めます]https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [C#/.NETを使ってMicrosoft Teamsプラットフォームを始めましょう](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 
@@ -63,4 +63,4 @@ SharePoint アドインをセットアップしてコーディングを開始す
 - [Office 365 開発者プログラムに参加](office-365-developer-program.md)
 - [Office 365 開発者サブスクリプションのセットアップ](office-365-developer-program-get-started.md) 
 - [期限切れのサブスクリプションを更新します。](subscription-expiration-and-renewal.md)
-- [Office 365 開発者プログラムの FAQ](office-365-developer-program-faq.md) 
+- [Office 365 開発者プログラム FAQ](office-365-developer-program-faq.md) 
