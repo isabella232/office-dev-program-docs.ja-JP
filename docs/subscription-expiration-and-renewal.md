@@ -4,11 +4,11 @@ description: 期限切れの開発者サブスクリプションを更新する�
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044673"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491060"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365 開発者プログラム サブスクリプションの有効期限と更新
 
@@ -20,7 +20,8 @@ Office 365 開発者プログラムのリリースに伴い、期限切れにな
 
 2019年 4 月から、更新可能な 90 日間のサブスクリプションを提供しています。
 
-[Office 365 開発者プログラム ダッシュボード](https://developer.microsoft.com/ja-JP/office/profile)を表示すると、更新可能なサブスクリプションがあるかどうかを確認できます。
+
+  [Office 365 開発者プログラム ダッシュボード](https://developer.microsoft.com/ja-JP/office/profile)を表示すると、更新可能なサブスクリプションがあるかどうかを確認できます。
 
 ## <a name="non-renewable-subscriptions"></a>更新できないサブスクリプション
 
@@ -70,7 +71,7 @@ Office 365 開発者プログラムのリリースに伴い、期限切れにな
 
 ## <a name="see-also"></a>関連項目
 
-- [Office 365 開発者プログラムに参加](office-365-developer-program.md)
+- [Office 365 Developer Program に参加する](office-365-developer-program.md)
 - [Office 365 開発者サブスクリプションのセットアップ](office-365-developer-program-get-started.md)
 - [サブスクリプションを使用して Office 365 ソリューションを構築する](build-office-365-solutions.md)
 - [Office 365 開発者プログラム FAQ](office-365-developer-program-faq.md)

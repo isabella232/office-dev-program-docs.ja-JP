@@ -4,11 +4,11 @@ description: Office 365 開発プログラムに参加して、Office 365 のソ
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31041985"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34491021"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Office 365 開発者プログラムへようこそ
 

@@ -3,12 +3,12 @@ title: Office 365 Developer Program FAQ
 description: Office 365 Developer Program に関するよく寄せられる質問。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: cc87dd169705e4ac37e521ef8ca5d8529d810fe7
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042013"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490978"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 Developer Program FAQ
 
@@ -67,10 +67,10 @@ Office 365開発者プログラムおよびOffice 365開発者サブスクリプ
 開発者向けサブスクリプションには、次の項目が含まれます。
 
 - [Exchange Online (プラン 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
-- [Flow for Office 365 Plan 2](https://flow.microsoft.com/pricing/)
+- [Office 365 プラン 2 のフロー](https://flow.microsoft.com/pricing/)
 - [Microsoft Forms (プラン E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Stream for O365 E5 SKU](https://products.office.com/business/office-365-enterprise-e5-business-software)
+- [Office 365 E5 SKU 用 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 のモバイル デバイス管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
@@ -141,10 +141,10 @@ Office 365開発者サブスクリプションは英語のみの提供になり�
 
 ## <a name="see-also"></a>関連項目
 
-- [Office 365 開発者プログラムに参加](office-365-developer-program.md)
+- [Office 365 Developer Program に参加する](office-365-developer-program.md)
 - [Office 365 開発者サブスクリプションのセットアップ](office-365-developer-program-get-started.md)
-- [サブスクリプションを使用して Office 365 ソリューションを構築します](build-office-365-solutions.md)
-- [期限切れのサブスクリプションを更新します。](subscription-expiration-and-renewal.md)
+- [サブスクリプションを使用して Office 365 ソリューションを構築する](build-office-365-solutions.md)
+- [期限切れのサブスクリプションを更新する](subscription-expiration-and-renewal.md)
 
 
  

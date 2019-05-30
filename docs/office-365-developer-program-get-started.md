@@ -4,11 +4,11 @@ description: 運用環境に依存しないソリューションを構築する�
 ms.date: 04/01/2019
 localization_priority: Priority
 ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 5d2444c7732b0312a8939cfa3671c3e7835aee3e
+ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31042006"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34490956"
 ---
 # <a name="set-up-an-office-365-developer-subscription"></a>Office 365 開発者サブスクリプションのセットアップ 
 
@@ -40,7 +40,7 @@ ms.locfileid: "31042006"
 
 ## <a name="configure-the-subscription"></a>サブスクリプションの設定
 
-1. あなたのプロフィールページで[office.com](https://www.office.com/)リンクを選択し、あなたのユーザID（例えばusername@domain.onmicrosoft.com) とあなたが開発者サブスクリプションのために指定したパスワードでサインインします。
+1. プロファイル ページで、[office.com](https://www.office.com/) のリンクを選択し、ユーザー ID (例: username@domain.onmicrosoft.com) と、開発者サブスクリプションに指定したパスワードでサインインします。
 
    > [!NOTE] 
    > サブスクリプションへのサインインには、開発者プログラムの資格情報を使用しないでください。
@@ -67,7 +67,7 @@ ms.locfileid: "31042006"
   ![Office アプリのインストール](images/11-install-office-apps.png)
 
    > [!TIP] 
-   > 次回ダッシュ ボードにアクセスするときに、ダッシュ ボードに移動する前に*username@domain*.onmicrosoft.com アカウントでサインインします。
+   > 次回ダッシュ ボードにアクセスするときに、ダッシュ ボードに移動する前に *username@domain*.onmicrosoft.com アカウントでサインインします。
 
 9. **設定が完了しました**。 サブスクリプションの設定が完了しました。 必要に応じて、この操作を評価できます。 準備ができたら、**管理センターに移動**を選択します。
     
@@ -102,6 +102,6 @@ Office 365 の開発者プログラムに参加する必要がなくなった場
 ## <a name="see-also"></a>関連項目
 
 - [Office 365 開発者プログラムに参加](office-365-developer-program.md)
-- [サブスクリプションを使用して Office 365 ソリューションを構築します](build-office-365-solutions.md)
-- [期限切れのサブスクリプションを更新します。](subscription-expiration-and-renewal.md)
+- [サブスクリプションを使用して Office 365 ソリューションを構築する](build-office-365-solutions.md)
+- [期限切れのサブスクリプションを更新する](subscription-expiration-and-renewal.md)
 - [Office 365 開発者プログラム FAQ](office-365-developer-program-faq.md)
