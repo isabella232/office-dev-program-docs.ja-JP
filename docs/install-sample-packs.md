@@ -2,12 +2,12 @@
 title: Office 365 開発者サブスクリプションでサンプル データ パックを使用する
 description: サンドボックス環境を迅速に稼働させるために、Office 365 開発者サブスクリプションにサンプル データ パックをインストールする方法を説明します。
 localization_priority: Priority
-ms.openlocfilehash: 16e605080673678b750ebeab4501ceb980cea6cb
-ms.sourcegitcommit: 76c5e3c9b58026471378e7634d121842690fd517
+ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
+ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35618856"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35902350"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Office 365 開発者サブスクリプションでサンプル データ パックを使用する
 
@@ -86,7 +86,16 @@ Office 365 開発者サブスクリプションにサンプル データ パッ�
 
 ## <a name="can-i-install-sample-data-packs-on-my-other-office-365-subscriptions"></a>サンプル データ パックを他の Office 365 サブスクリプションにインストールできますか?
 
-いいえ。 これらのサンプル データ パックは、Office 365 開発者プログラムに含まれている Office 365 開発者サブスクリプションとのみ互換性があります。
+いいえ。 これらのサンプル データ パックは、Office 365 開発者プログラムの一部として取得した Office 365 開発者サブスクリプションとのみ互換性があります。
+
+## <a name="how-can-i-see-the-sample-data-in-my-subscription"></a>どうすればサンプル データをサブスクリプションに表示できますか?
+
+ユーザーのサンプル データ パックのインストール後に、追加されたユーザーを表示するには、Office 365 開発者サブスクリプションで**Microsoft 365 管理センター**に移動します。 [**ユーザー**] の下で [**アクティブ ユーザー**] を選択します。 16 人のユーザーの一覧が表示されます。 ユーザーを選択して、写真やライセンスを含む関連付けられたメタデータを表示します。
+
+![Microsoft 365 管理センターの 16 人のユーザーのリストには、指定したユーザーのメタデータが含まれます。](images/content-packs-07.PNG)
+
+メールとイベントのサンプル パックのインストール後に、サンプル データを表示するには、**Microsoft 365 管理センター**で [**すべて表示**] を選択して、[**Exchange**] を選択します。 Exchange 管理センターで [**受信者**] を選択すると、各 16 人のユーザーが、追加されたメールとイベントを含むメールボックスと共に表示されます。
+![Exchange 管理センターに追加された 16 人のユーザーのスクリーンショット](images/content-packs-08.PNG)
 
 ## <a name="see-also"></a>関連項目
 
