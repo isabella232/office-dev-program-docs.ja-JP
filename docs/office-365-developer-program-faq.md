@@ -3,12 +3,12 @@ title: Office 365 Developer Program FAQ
 description: Office 365 Developer Program に関するよく寄せられる質問。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 5b18c4e3632b8e498798e7238cbd7342c270eb8d
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
+ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490978"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916893"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 Developer Program FAQ
 
@@ -67,18 +67,26 @@ Office 365開発者プログラムおよびOffice 365開発者サブスクリプ
 開発者向けサブスクリプションには、次の項目が含まれます。
 
 - [Exchange Online (プラン 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
-- [Office 365 プラン 2 のフロー](https://flow.microsoft.com/pricing/)
+- [Office 365 のフロー](https://flow.microsoft.com/pricing/)
+- 
+  [Information Protection for Office 365 - Standard](https://products.office.com/ja-JP/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (プラン E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+- 
+  [Microsoft Search](https://products.office.com/ja-JP/business/intelligent-search?tab=Discovery)
 - [Office 365 E5 SKU 用 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 のモバイル デバイス管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- [PowerApps for Office 365 プラン 2](https://powerapps.microsoft.com/pricing/)
+- 
+  [Web 用 Office](https://docs.microsoft.com/ja-JP/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online for Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online (プラン 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
 - [To-Do (プラン 3)](https://todo.microsoft.com)
+- 
+  [Whiteboard (プラン 2)](https://products.office.com/ja-JP/microsoft-whiteboard/digital-whiteboard-app)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>サブスクリプションには Azure へのサブスクリプションも含まれていますか?
 
