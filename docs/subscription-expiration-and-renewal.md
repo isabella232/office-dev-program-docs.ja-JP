@@ -3,12 +3,12 @@ title: Office 365 開発者プログラム サブスクリプションの有効�
 description: 期限切れの開発者サブスクリプションを更新する方法について説明します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 73a286f4a9b3cd4b85237aafcac0adf45e453e7d
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: d22afb89b1f7d1c537ab3153876d3f227b33f1e2
+ms.sourcegitcommit: dcd023e761e89104a588768d71fc966729280e24
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34491060"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35922106"
 ---
 # <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365 開発者プログラム サブスクリプションの有効期限と更新
 
@@ -39,7 +39,7 @@ Office 365 開発者プログラムのリリースに伴い、期限切れにな
 
 ## <a name="renewable-subscriptions"></a>更新可能なサブスクリプション
 
-2018年 8 月より前にサブスクリプションにサインアップした場合、更新可能なサブスクリプションがある可能性があります。 サブスクリプションがアクティブでない場合、ダッシュ ボードに次の警告が表示されます。 
+2018 年 8 月以降にサブスクリプションにサインアップした場合、更新可能なサブスクリプションを取得している可能性があります。 サブスクリプションがアクティブでない場合、ダッシュ ボードに次の警告が表示されます。 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
