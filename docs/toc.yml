@@ -4,6 +4,8 @@
   href: office-365-developer-program-get-started.md
 - name: ソリューションの構築
   href: build-office-365-solutions.md
+- name: サンプルデータパックを使用する
+  href: install-sample-packs.md
 - name: サブスクリプションの有効期限と更新
   href: subscription-expiration-and-renewal.md
 - name: 開発者プログラムに関する FAQ
