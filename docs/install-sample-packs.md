@@ -2,12 +2,12 @@
 title: Office 365 開発者サブスクリプションでサンプル データ パックを使用する
 description: サンドボックス環境を迅速に稼働させるために、Office 365 開発者サブスクリプションにサンプル データ パックをインストールする方法を説明します。
 localization_priority: Priority
-ms.openlocfilehash: 8c6c5c634080e951ca2e60d0d6236db1331d44ae
-ms.sourcegitcommit: 6b77e649d1be568a71b6ec572f9d0d2c7cea6f3e
+ms.openlocfilehash: 29bdd3cebeaf4a2f70d1482fe1c57480cd083756
+ms.sourcegitcommit: e8d857460e4fd5842bdfbd2a9d60f4fba55edcd0
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902350"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36465115"
 ---
 # <a name="use-sample-data-packs-with-your-office-365-developer-subscription"></a>Office 365 開発者サブスクリプションでサンプル データ パックを使用する
 
@@ -15,7 +15,7 @@ Office 365 開発者サブスクリプションにサンプル データ パッ�
 
 サンプル データ パックは、Office 365 サブスクリプション タイルの下部にある [Office 365 開発者プログラム ダッシュボード](https://developer.microsoft.com/office/profile)にあります。
 
-![ダッシュボード ページのサブスクリプション タイルのスクリーンショット](images/content-packs-06.PNG)
+![ダッシュボード ページのサブスクリプション タイルのスクリーンショット](images/sample-data-pack-ux-tile-users-beginning.PNG)
 
 現在、次のサンプル データ パックをご利用になれます。
 
@@ -43,7 +43,10 @@ Office 365 開発者サブスクリプションにサンプル データ パッ�
 
 ## <a name="how-do-i-install-the-users-sample-data-pack"></a>ユーザー サンプル データ パックをインストールする方法
 
-ユーザー サンプル データ パックをインストールする前に、Office 365 開発者サブスクリプションをお持ちで、管理者として自分にライセンスを割り当てる必要があります。
+ユーザー サンプル データ パックをインストールする前に、Office 365 開発者サブスクリプションを取得していて、管理者として自分にライセンスを割り当てていることを確認します。
+
+> [!NOTE]
+> サブスクリプションで 16 人のユーザーが利用できることを確認します。 サブスクリプションには、25 人のユーザーが含まれます。 既に 10 人以上で構成されている場合は、最初に複数のユーザーを削除してインストールが成功したことを確認します。
 
 ユーザー サンプル データ パックをインストールするには、次の操作を行います。
 
@@ -52,19 +55,19 @@ Office 365 開発者サブスクリプションにサンプル データ パッ�
 3. サインイン ページで、管理者 ID とパスワードを入力します。
 4. Office 365 開発者サブスクリプションの管理者としての権限に同意します。
 
-![権限の同意ダイアログ ボックスを示すスクリーンショット](images/content-packs-01.png)
+![権限の同意ダイアログ ボックスを示すスクリーンショット](images/sample-data-pack-ux-tile-users-consent-with-permissions-combined.PNG)
 
 5. すべてのサンプル ユーザーのパスワードを設定します。 すべての架空のユーザーを簡単に管理できるように、1 つの共有パスワードを定義する必要があります。
 
-![共有ユーザー パスワードを追加するダイアログ ボックスのスクリーンショット](images/content-packs-02.png)
+![共有ユーザー パスワードを追加するダイアログ ボックスのスクリーンショット](images/sample-data-pack-ux-tile-users-fake-user-password-creation.PNG)
 
 6. データがインストールされます。 インストールには約 5 分ほどかかります。
 
-![ダッシュボード タイルのインストール処理を示すスクリーンショット](images/content-packs-03.PNG)
+![ダッシュボード タイルのインストール処理を示すスクリーンショット](images/sample-data-pack-ux-tile-users-installing-status.PNG)
 
 7. インストールが完了すると、メールで通知され、サブスクリプション タイルのボックスは緑色になります。 メールとイベントのサンプル データ パックをインストールできるようになりました。
 
-![インストールの準備ができたメールとイベントが表示されているダッシュボード タイルのスクリーンショット](images/content-packs-04.PNG)
+![インストールの準備ができたメールとイベントが表示されているダッシュボード タイルのスクリーンショット](images/sample-data-pack-ux-tile-users-installed.PNG)
 
 ## <a name="how-do-i-install-the-mail-and-events-sample-data-pack"></a>メールとイベントのサンプル データ パックをインストールする方法
 
@@ -73,7 +76,7 @@ Office 365 開発者サブスクリプションにサンプル データ パッ�
 1. サブスクリプション タイルの [**メール &amp; イベント**] ボックスを選択します。
 2. [**インストール**] を選択して、インストールを開始します。
 
-![インストール ダイアログ ボックスのスクリーンショット](images/content-packs-05.png)
+![インストール ダイアログ ボックスのスクリーンショット](images/sample-data-pack-ux-tile-mail-and-events-begin-install.PNG)
 
 > [!NOTE]
 > サブスクリプションを作成したばかりの場合は、インストールを開始する前にそのサブスクリプションを完全にプロビジョニングする必要があります。 これには数時間かかる場合があります。 インストールが開始された後、終了には最大 20 分かかります。
