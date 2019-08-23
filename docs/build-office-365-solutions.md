@@ -24,8 +24,7 @@ Microsoft Teams をセットアップしてコーディングする方法は次�
 2. 開発環境をセットアップします。 どんな種類のアプリやサービスを構築するかに応じて、その手順は異なります。 詳細については、以下を参照してください。
 
   - [Microsoft Teams プラットフォームで Node.js を使い始める](https://docs.microsoft.com/microsoftteams/platform/get-started/get-started-nodejs-app-studio)
-  - 
-  [Microsoft Teams プラットフォームで C#/.NET を使い始める](https://docs.microsoft.com/ja-JP/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
+  - [Microsoft Teams プラットフォームで C#/.NET を使い始める](https://docs.microsoft.com/ja-JP/microsoftteams/platform/get-started/get-started-dotnet-app-studio)
 
 ## <a name="microsoft-graph"></a>Microsoft Graph
 

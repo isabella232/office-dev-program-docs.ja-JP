@@ -68,25 +68,21 @@ Office 365開発者プログラムおよびOffice 365開発者サブスクリプ
 
 - [Exchange Online (プラン 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Office 365 のフロー](https://flow.microsoft.com/pricing/)
-- 
-  [Information Protection for Office 365 - Standard](https://products.office.com/ja-JP/business/azure-information-protection-for-office-365)
+- [Information Protection for Office 365 - Standard](https://products.office.com/ja-JP/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (プラン E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- 
-  [Microsoft Search](https://products.office.com/ja-JP/business/intelligent-search?tab=Discovery)
+- [Microsoft Search](https://products.office.com/ja-JP/business/intelligent-search?tab=Discovery)
 - [Office 365 E5 SKU 用 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 のモバイル デバイス管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 - [Office 365 ProPlus](https://products.office.com/business/office-365-proplus-business-software)
-- 
-  [Web 用 Office](https://docs.microsoft.com/ja-JP/office365/servicedescriptions/office-online-service-description/office-online-service-description)
+- [Web 用 Office](https://docs.microsoft.com/ja-JP/office365/servicedescriptions/office-online-service-description/office-online-service-description)
 - [PowerApps for Office 365](https://powerapps.microsoft.com/pricing/)
 - [SharePoint Online for Developer](https://products.office.com/SharePoint/compare-sharepoint-plans)
 - [Skype for Business Online (プラン 2)](https://products.office.com/skype-for-business/online-meeting-solutions)
 - [Sway](https://sway.com/)
 - [To-Do (プラン 3)](https://todo.microsoft.com)
-- 
-  [Whiteboard (プラン 2)](https://products.office.com/ja-JP/microsoft-whiteboard/digital-whiteboard-app)
+- [Whiteboard (プラン 2)](https://products.office.com/ja-JP/microsoft-whiteboard/digital-whiteboard-app)
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>サブスクリプションには Azure へのサブスクリプションも含まれていますか?
 
