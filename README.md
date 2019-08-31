@@ -2,6 +2,6 @@
 
 このプロジェクトでは、[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) が採用されています。
 
-詳細については、[Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) を参照してください。 
+詳細については、「[よく寄せ](https://opensource.microsoft.com/codeofconduct/faq/)られる質問」のコードを参照してください。 
 
-追加のご質問やコメントについては、[opencode@microsoft.com](mailto:opencode@microsoft.com) までご連絡ください。 
+その他の質問やコメントについては、 [opencode@microsoft.com](mailto:opencode@microsoft.com)にお問い合わせください。 
