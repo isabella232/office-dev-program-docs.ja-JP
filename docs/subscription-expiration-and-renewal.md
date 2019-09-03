@@ -20,8 +20,7 @@ Office 365 開発者プログラムのリリースに伴い、期限切れにな
 
 2019年 4 月から、更新可能な 90 日間のサブスクリプションを提供しています。
 
-
-  [Office 365 開発者プログラム ダッシュボード](https://developer.microsoft.com/ja-JP/office/profile)を表示すると、更新可能なサブスクリプションがあるかどうかを確認できます。
+[Office 365 開発者プログラム ダッシュボード](https://developer.microsoft.com/ja-JP/office/profile)を表示すると、更新可能なサブスクリプションがあるかどうかを確認できます。
 
 ## <a name="non-renewable-subscriptions"></a>更新できないサブスクリプション
 
