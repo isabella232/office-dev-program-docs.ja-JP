@@ -1,18 +1,20 @@
 ---
-title: Office 365 開発者サブスクリプションのセットアップ
+title: Microsoft 365 開発者 サブスクリプションを設定する
 description: 運用環境に依存しないソリューションを構築するためのOffice 365開発者サブスクリプションを設定します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 32b32847b50c16c8b8f16b360318af1f18d8d69b
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34490956"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713892"
 ---
-# <a name="set-up-an-office-365-developer-subscription"></a>Office 365 開発者サブスクリプションのセットアップ 
+# <a name="set-up-a-microsoft-365-developer-subscription"></a>Microsoft 365 開発者 サブスクリプションを設定する 
 
-運用環境に依存しないソリューションを構築するためのOffice 365開発者サブスクリプションを設定します。 サブスクリプションは、25 ユーザー ライセンス付きの Office 365 Enterprise E3 開発者用のサブスクリプションです。 90日間有効で、開発目的 (コーディングのソリューション) に無料で使用できます。
+運用環境に依存しないソリューションを構築するための Microsoft 365 開発者サブスクリプションを設定します。 サブスクリプションは、25 ユーザー ライセンス付きの Microsoft 365 E5 開発者用のサブスクリプションです。 90日間有効で、開発目的 (コーディングのソリューション) のみに無料で使用できます。 
+
+2019 年 8 月 25 日より前にプログラムに参加したお客様には、Office 365 E3 Developer サブスクリプションがあります。
 
 > [!NOTE] 
 > サブスクリプションを設定するには、まず[Office 365 開発者プログラムに参加](office-365-developer-program.md)します。 参加すると、サブスクリプションのセットアップのためのオプションが表示されます。

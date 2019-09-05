@@ -3,12 +3,12 @@ title: Office 365 Developer Program FAQ
 description: Office 365 Developer Program に関するよく寄せられる質問。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 8ac783772bd08bb4bcde6b775fc8c58b79595307
-ms.sourcegitcommit: e8d195d7e27198b13360c0de7435514c950e0bad
+ms.openlocfilehash: 9747238ed915f0b122ac9bf924d0d850d0dd55ad
+ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916893"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713903"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 Developer Program FAQ
 
@@ -62,9 +62,10 @@ Office 365開発者プログラムおよびOffice 365開発者サブスクリプ
 
 追跡する活動の種類の詳細については、以下[Office 365 開発サブスクリプション使用条件](terms-and-conditions.md)を参照してください。 
 
-## <a name="whats-included-in-the-office-365-developer-subscription"></a>Office 365 開発者サブスクリプションにはどんなものが含まれますか?
+## <a name="whats-included-in-the-developer-subscription"></a>開発者サブスクリプションにはどんなものが含まれますか?
+2019 年 8 月 25 日以降にサブスクリプションを作成した場合、25 ユーザー ライセンス付きの Microsoft 365 E5 開発者サブスクリプションがあります。 2019 年 8 月 25 日より前にプログラムに参加したお客様には、25 ユーザー ライセンス付きの Office 365 E3 Developer サブスクリプションがあります。
 
-開発者向けサブスクリプションには、次の項目が含まれます。
+Office 365 E3 Developer サブスクリプションには、次の項目が含まれます。
 
 - [Exchange Online (プラン 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)
 - [Office 365 のフロー](https://flow.microsoft.com/pricing/)
@@ -83,6 +84,69 @@ Office 365開発者プログラムおよびOffice 365開発者サブスクリプ
 - [Sway](https://sway.com/)
 - [To-Do (プラン 3)](https://todo.microsoft.com)
 - [Whiteboard (プラン 2)](https://products.office.com/ja-JP/microsoft-whiteboard/digital-whiteboard-app)
+
+Microsoft 365 E5 開発者サブスクリプションには、Office 365 E3 Developer サブスクリプションに含まれているすべてのアプリに加えて、次の新機能が含まれています。  
+
+- Power BI による高度な分析  
+- コンプライアンスと情報保護のための Enterprise Mobility + Security (EMS)  
+- Office 365 Advanced Threat Protection 
+- 高度な ID およびアクセス管理ソリューションを構築できる Azure Active Directory  
+
+Microsoft 365 E5 開発者サブスクリプションには、次の項目が含まれます。 
+
+- Azure Active Directory Premium P1 
+- Azure Active Directory Premium P2 
+-   Azure Advanced Threat Protection 
+-   Azure Information Protection Premium P1 
+-   Azure Information Protection Premium P2 
+-   顧客ロックボックス 
+-   Exchange Online (プラン 2) 
+-   Office 365 のフロー 
+-   Information Protection for Office 365 - Premium 
+-   Information Protection for Office 365 - Standard 
+-   Microsoft Azure Active Directory Rights 
+-   Microsoft Azure Multi-Factor Authentication 
+-   Microsoft Cloud App Security 
+-   Microsoft Forms (プラン E5) 
+-   Microsoft Intune 
+-   Microsoft MyAnalytics (フル機能) 
+-   Microsoft Planner 
+-   Microsoft StaffHub 
+-   Microsoft Stream for O365 E5 SKU 
+-   Microsoft Teams 
+-   Mobile Device Management for Office 365 
+-   Office 365 Advanced eDiscovery 
+-   Office 365 の高度なセキュリティ管理 
+-   Office 365 Advanced Threat Protection (プラン 1) 
+-   Office 365 Advanced Threat Protection (プラン 2) 
+-   Office 365 Privileged Access Management 
+-   Office 365 ProPlus 
+-   Office Online 
+-   電話システム 
+-   Power BI Pro 
+-   PowerApps for Office 365 プラン 3 
+-   SharePoint Online (プラン 2) 
+-   Skype for Business Online (プラン 2) 
+-   Sway 
+-   To-Do (プラン 3) 
+-   Whiteboard (プラン 3) 
+-   Yammer Enterprise 
+
+## <a name="how-do-i-know-which-subscription-i-have"></a>どのサブスクリプションを持っているかを知るにはどうすればよいですか?
+
+[ダッシュボード](https://developer.microsoft.com/office/profile)のサブスクリプション タイルで、Microsoft 365 E5 サブスクリプションまたは Office 365 E3 サブスクリプションがあるかどうかを確認できます。 タイルには、サブスクリプション ドメイン名の下に E3 または E5 が表示されます。
+
+![E5 を強調表示したサブスクリプション タイルのスクリーンショット](images/subscription-tile-e5.png)。
+
+## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Office 365 E3 サブスクリプションから Microsoft 365 E5 サブスクリプションに移行するにはどうすればよいですか?
+
+現在、新しい Office 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、将来的に Microsoft 365 E5 サブスクリプションに移行する方法が提供されます。 弊社は、すべての Office 365 開発者プログラムのメンバーが Microsoft 365 E5 に移行できるように取り組んでいます。 
+
+## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>Office 365 E3 と Microsoft 365 E5 サブスクリプションのどちらを使用するかを選択できますか?
+
+現在、新しい開発者プログラムのメンバーには、Microsoft 365 E5 サブスクリプションが提供されています。 Office 365 E3 サブスクリプションを持っている既存のメンバーは、Microsoft 365 E5 で提供されている新しい機能を必要としない場合、現在のサブスクリプションを保持し、更新を続けることができます。 開発者プログラムのメンバーは、1 つのサブスクリプションのみを持つことができます。  
+
+既存の開発者プログラムのメンバーのために移行オプションが用意された場合は、移行方法の詳細を説明します。 
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>サブスクリプションには Azure へのサブスクリプションも含まれていますか?
 
