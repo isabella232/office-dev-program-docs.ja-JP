@@ -3,12 +3,12 @@ title: Microsoft 365 開発者 サブスクリプションを設定する
 description: 運用環境に依存しないソリューションを構築するためのOffice 365開発者サブスクリプションを設定します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: c66af5cd905d82d938ee6f2c2ffeb34cccaf3c45
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
+ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713892"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717518"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Microsoft 365 開発者 サブスクリプションを設定する 
 
@@ -19,11 +19,9 @@ ms.locfileid: "36713892"
 > [!NOTE] 
 > サブスクリプションを設定するには、まず[Office 365 開発者プログラムに参加](office-365-developer-program.md)します。 参加すると、サブスクリプションのセットアップのためのオプションが表示されます。
 
-## <a name="set-up-your-subscription"></a>サブスクリプションのセットアップ
+## <a name="set-up-your-subscription"></a>サブスクリプションをセットアップします
 
-1. Office 365 開発者向けのサブスクリプションを取得するには、自分のプロファイル ページで、**開発用に Office 365 サブスクリプションが必要ですか?** の下の、**サブスクリプションのセットアップ**を選択します。
-
-  ![サブスクリプションのセットアップ](images/4-set-up-subscription.png)
+1. Office 365 Developer サブスクリプションを取得するには、プロファイル ページで [**サブスクリプションの設定**] を選択します。
 
 2. **開発者向けのサブスクリプションをセットアップ**ダイアログ ボックスで、ユーザー名とドメインを作成します。 このアカウントは、サブスクリプションのグローバル管理者の権限を持ちます。 既に使われているものでなければ、任意のユーザー名またはドメイン名を選ぶことができます。 スペースは使用できません。
 
@@ -42,14 +40,14 @@ ms.locfileid: "36713892"
 
 ## <a name="configure-the-subscription"></a>サブスクリプションの設定
 
-1. プロファイル ページで、[office.com](https://www.office.com/) のリンクを選択し、ユーザー ID (例: username@domain.onmicrosoft.com) と、開発者サブスクリプションに指定したパスワードでサインインします。
+1. プロファイル ページで、[**サブスクリプションに移動**] を選択し、ユーザー ID (例: username@domain.onmicrosoft.com) と、開発者サブスクリプションに指定したパスワードでサインインします。
 
    > [!NOTE] 
    > サブスクリプションへのサインインには、開発者プログラムの資格情報を使用しないでください。
 
-2. アプリ起動ツールを使用して、[管理センター](https://portal.office.com/adminportal/home#/homepage)へ移動します。
+2. アプリ起動ツールを使用して、[管理センター](https://admin.microsoft.com/AdminPortal/Home#/homepage)へ移動します。
 
-3. 管理センターのホーム ページで、**設定へ移動**を選択します。 そうすると **Office 365 Enterprise E3 開発者向けの設定**ページへ移動します。
+3. 管理センターのホーム ページで、**設定へ移動**を選択します。 [**Microsoft 365 E5 開発者セットアップ**] ページに移動します。
 
 4. **サインインとメールをカスタマイズ**。 サブスクリプションをドメインに接続することができます。また、作成した既存のサブドメインも使用できます。 準備ができたら、**次へ**を選択します。
 
