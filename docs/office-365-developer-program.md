@@ -3,12 +3,12 @@ title: Office 365 開発者プログラムに参加
 description: Office 365 開発プログラムに参加して、Office 365 のソリューションをご自分の運用環境で独自に開発やテストを行います。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: a2c6c6436b915503463c30fb613c11949770b9b2
-ms.sourcegitcommit: 410ec6b3bcd545f953df04f831fbdd4954232927
+ms.openlocfilehash: b8aeda4e17a526c8afffcbb8f055c3c937f74661
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34491021"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275459"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Office 365 開発者プログラムへようこそ
 
@@ -18,7 +18,10 @@ Office 365 開発プログラムに、友人や同僚と一緒に参加しまし
 
 1. [Office 365 開発者プログラムに参加](https://developer.microsoft.com/office/dev-program)のページに移動します。 
 
-2. 右上隅にある**サインイン**を選択し、Microsoft アカウント、または Azure Active Directory が有効化されたメール アドレスでサインインします。 
+2. 右上隅にある**サインイン**を選択し、Microsoft アカウント、または Azure Active Directory が有効化されたメール アドレスでサインインします。
+
+    > [!NOTE]
+    > サインインに使うアカウントを忘れないようにします。 [開発者プログラム](https://developer.microsoft.com/office/profile) ダッシュボードにはこのアカウントを使用してサインインします。 このアカウントは、Microsoft 365 開発者向けサブスクリプションで使用する管理者 ID とは異なります。
 
   <img alt="Join the Office 365 Developer Program Sign-in" src="images/0-sign-in-page.png" width="700">
 

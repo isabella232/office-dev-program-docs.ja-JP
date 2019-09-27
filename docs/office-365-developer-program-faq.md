@@ -3,12 +3,12 @@ title: Office 365 Developer Program FAQ
 description: Office 365 Developer Program に関するよく寄せられる質問。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 9747238ed915f0b122ac9bf924d0d850d0dd55ad
-ms.sourcegitcommit: a5c196fe86b0bcf5e0638084c197a0b857b4acc4
+ms.openlocfilehash: acf847e4d6c7f06058b78383ab4e425cee3745d6
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713903"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275445"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 Developer Program FAQ
 
@@ -27,42 +27,29 @@ Office 365開発者プログラムは、Office 365を拡張する、ユーザー
 プログラムのメンバーは、Office 365開発者サブスクリプションと25ユーザー ライセンスを無料で得られ、ソリューション作成に役立てることができます。 このサブスクリプションは、ソリューションを積極的に開発および展開している限り、引き続き有効です。
 
 詳しくは、[Office 365 Developer Program に参加する](office-365-developer-program.md)と[Office 365ソリューションを構築する](build-office-365-solutions.md)をご覧ください。
- 
-## <a name="how-does-the-office-365-developer-subscription-work"></a>Office 365 開発者サブスクリプションはどのような仕組みなのですか?  
 
-Office 365 開発者プログラムに参加すると、Office 365 開発者サブスクリプション1つを無料で取得できます。 これは、アプリケーション開発専用に設計された特別なサブスクリプションで、25のユーザーライセンスが付属しています。 
+## <a name="what-account-can-i-use-to-sign-up-for-the-office-365-developer-program"></a>Office 365開発者プログラムにサインアップするには、どのアカウントを使用できますか?
 
-Office 365開発者プログラムに参加した後に、Office 365開発者サブスクリプションを受信していろいろ構成することができます。 サブスクリプションは90 日間有効で、有効期間中に開発アクティビティが確認できている限り、90日間延長可能です。 
+次のいずれかの種類のアカウントを使用して、開発者プログラムにサインアップできます。
 
-詳しくは、[Office 365 開発者サブスクリプションのセットアップ](office-365-developer-program-get-started.md)を参照してください。
+- **Microsoft アカウント** (個人用に作成されたもの) - Outlook (Hotmail)、Messenger、OneDrive、MSN、Xbox Live、Office 365 など、すべてのコンシューマー向け Microsoft 製品とクラウド サービスにアクセスできます。 Outlook.com メールボックスにサインアップすると、Microsoft アカウントが自動的に作成されます。 作成された Microsoft アカウントを使用して、コンシューマー関連の Microsoft クラウド サービスまたは Azure にアクセスできます。 
+- **職場のアカウント** (業務用に管理者が発行したもの) - Azure、Microsoft Intune、Office 365 など、小規模、中規模、エンタープライズ企業レベルの Microsoft クラウド サービスにアクセスできます。 組織としてこのいずれかのサービスにサインアップすると、組織を表すクラウド ベースのディレクトリが Azure Active Directory に自動的にプロビジョニングされます。 詳しくは、[Azure AD ディレクトリの管理](https://docs.microsoft.com/azure/active-directory/active-directory-administer)を参照してください。
+- **Visual Studio ID** (Visual Studio Professional またはEnterprise サブスクリプションの作成) - このオプションを使用して、Visual Studio サブスクライバーとしての完全なメリットを活用できる Visual Studio ギャラリー内から開発者プログラムに参加することをお勧めします。 
 
-## <a name="how-many-user-licenses-can-i-add-with-my-subscription"></a>私のサブスクリプションで追加できるライセンスの数はいくつですか?
+## <a name="how-can-i-get-an-office-365-developer-subscription-via-the-developer-program"></a>開発者プログラムを通して Office 365 開発者向けサブスクリプションを取得する方法を教えてください  
 
-管理者を含めて最大 25 個のユーザーライセンスを追加することができますが、開発目的のみの使用となります。 アプリケーション開発以外の目的にこのサブスクリプションを使用すると、使用許諾契約違反です。 ライセンスの制限の詳細については以下を参照してください[Office 365 開発サブスクリプション使用条件](terms-and-conditions.md)。
+Office 365 開発者プログラムに参加すると、Office 365 開発者向けサブスクリプションを無料で取得できます。 これは、アプリケーション開発目的での使用のみが想定された、特別なサブスクリプションです。 詳細については、「[Office 365 開発者向けサブスクリプションをセットアップする](office-365-developer-program-get-started.md)」を参照してください。
 
-## <a name="why-dont-you-offer-a-one-year-subscription"></a>1 年間のサブスクリプションをなぜ提供しないのですか？
+## <a name="what-id-do-i-use-to-sign-in-to-the-developer-program-dashboard"></a>開発者プログラム ダッシュボードにサインインする際はどの ID を使用すればよいですか?
 
-2019年4月に、開発に積極的に使用している場合は、90日ごとにサブスクリプションを永久的に更新できる新しいモデルに移行しました。 このモデルにより、積極的にソリューションを開発している開発者が、必要な限りサブスクリプションを持てることを担保できるのではないかと考えたのです。 頻繁に開発している場合は、サブスクリプションの有効期限が切れることがありません。 自動的に延長されます。 短期間の開発でサブスクリプションが期限切れになり削除された場合は、新しいサブスクリプションに申し込むことができます。 
+開発者プログラムのダッシュボードにサインインしてサブスクリプションに関する情報にアクセスするには、メンバー ID を使用します。 これは、プログラムに登録したときにサインインするのに使用した、Microsoft アカウントまたは Azure Active Directory が有効になっているメール アドレスです。
 
-あなたがより長い間利用可能であるサブスクリプションを好むならば、Visual Studio ProfessionalまたはVisual Studio Enterpriseのサブスクリプションをお勧めします。 これらのプログラムには、Visual Studio のサブスクリプションが有効なかぎり有効な、無料の Office 365 開発サブスクリプションが含まれます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 
+## <a name="what-id-do-i-use-to-sign-in-to-my-developer-subscription"></a>開発者向けサブスクリプションにサインインする際はどの ID を使用すればよいですか?
 
-## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>サブスクリプションを更新できるかどうかが決定する方法は？
+開発者向けサブスクリプションをセットアップしたときに作成した管理者 ID を使用します。 管理者 ID は、 [開発者プログラム ダッシュボード](https://developer.microsoft.com/ja-JP/office/profile)のサブスクリプション タイルに表示されています。
 
-お客様が積極的に開発しているかどうかを判断するために、Office 365開発者プログラムおよびOffice 365開発者サブスクリプションでのアクティビティから得た一連のアルゴリズムと遠隔測定法を使用しています。 定期的にこれらのチェックがなされ、あなたのステータスを更新し、サブスクリプションを延長するべきかどうかを決定します。 
+## <a name="whats-included-in-the-developer-subscription"></a>開発者向けサブスクリプションには何が含まれますか?
 
-開発アクティビティの正確な追跡が何らかの理由でできていないと考えられる場合は、ダッシュ ボードからお知らせいただくことができます。 開発のためにサブスクリプションをどのように使用しているかを示すフォームを送信するには、ダッシュボードの警告で、**Let us know**リンクを次の図に示すように選択します。 私達はあなたの要求を精査し、延長の資格があるかどうかお知らせします。 
-
-<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
-
-## <a name="how-do-you-define-development-activity"></a>開発アクティビティを定義する方法とは？
-
-Office 365開発者プログラムおよびOffice 365開発者サブスクリプションでのアクティビティで、お客様が積極的に開発しており、サブスクリプションを更新すべきかどうかを判断しています。 
-
-## <a name="what-development-activities-do-you-track"></a>どのような開発アクティビティを追跡しているのですか？
-
-追跡する活動の種類の詳細については、以下[Office 365 開発サブスクリプション使用条件](terms-and-conditions.md)を参照してください。 
-
-## <a name="whats-included-in-the-developer-subscription"></a>開発者サブスクリプションにはどんなものが含まれますか?
 2019 年 8 月 25 日以降にサブスクリプションを作成した場合、25 ユーザー ライセンス付きの Microsoft 365 E5 開発者サブスクリプションがあります。 2019 年 8 月 25 日より前にプログラムに参加したお客様には、25 ユーザー ライセンス付きの Office 365 E3 Developer サブスクリプションがあります。
 
 Office 365 E3 Developer サブスクリプションには、次の項目が含まれます。
@@ -72,7 +59,7 @@ Office 365 E3 Developer サブスクリプションには、次の項目が含�
 - [Information Protection for Office 365 - Standard](https://products.office.com/ja-JP/business/azure-information-protection-for-office-365)
 - [Microsoft Forms (プラン E5)](https://support.office.com/article/Frequently-asked-questions-about-Microsoft-Forms-495c4242-6102-40a0-add8-df05ed6af61c)
 - [Microsoft Planner](https://products.office.com/compare-all-microsoft-office-products?tab=2)
-- [Microsoft Search](https://products.office.com/ja-JP/business/intelligent-search?tab=Discovery)
+- [Microsoft Search](https://products.office.com/en-us/business/intelligent-search?tab=Discovery)
 - [Office 365 E5 SKU 用 Microsoft Stream](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Microsoft Teams](https://products.office.com/business/office-365-enterprise-e5-business-software)
 - [Office 365 のモバイル デバイス管理](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
@@ -132,25 +119,17 @@ Microsoft 365 E5 開発者サブスクリプションには、次の項目が含
 -   Whiteboard (プラン 3) 
 -   Yammer Enterprise 
 
-## <a name="how-do-i-know-which-subscription-i-have"></a>どのサブスクリプションを持っているかを知るにはどうすればよいですか?
-
-[ダッシュボード](https://developer.microsoft.com/office/profile)のサブスクリプション タイルで、Microsoft 365 E5 サブスクリプションまたは Office 365 E3 サブスクリプションがあるかどうかを確認できます。 タイルには、サブスクリプション ドメイン名の下に E3 または E5 が表示されます。
+持っているサブスクリプションが Microsoft 365 E5 なのか Office 365 E3 なのかは、[ダッシュボード](https://developer.microsoft.com/office/profile)のサブスクリプション タイルで特定できます。 タイルには、サブスクリプション ドメイン名の下に E3 または E5 が表示されます。
 
 ![E5 を強調表示したサブスクリプション タイルのスクリーンショット](images/subscription-tile-e5.png)。
-
-## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Office 365 E3 サブスクリプションから Microsoft 365 E5 サブスクリプションに移行するにはどうすればよいですか?
-
-現在、新しい Office 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、将来的に Microsoft 365 E5 サブスクリプションに移行する方法が提供されます。 弊社は、すべての Office 365 開発者プログラムのメンバーが Microsoft 365 E5 に移行できるように取り組んでいます。 
-
-## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>Office 365 E3 と Microsoft 365 E5 サブスクリプションのどちらを使用するかを選択できますか?
-
-現在、新しい開発者プログラムのメンバーには、Microsoft 365 E5 サブスクリプションが提供されています。 Office 365 E3 サブスクリプションを持っている既存のメンバーは、Microsoft 365 E5 で提供されている新しい機能を必要としない場合、現在のサブスクリプションを保持し、更新を続けることができます。 開発者プログラムのメンバーは、1 つのサブスクリプションのみを持つことができます。  
-
-既存の開発者プログラムのメンバーのために移行オプションが用意された場合は、移行方法の詳細を説明します。 
 
 ## <a name="does-the-subscription-also-include-a-subscription-to-azure"></a>サブスクリプションには Azure へのサブスクリプションも含まれていますか?
 
 このオファーには Azure へのサブスクリプションは含まれていません。 ただし、[無料の Azure アカウントを作成](https://azure.microsoft.com/free/)すると Azure サービスを無料でご利用できます。 
+
+## <a name="how-many-user-licenses-does-the-office-365-developer-subscription-include"></a>Office 365 開発者向けサブスクリプションに含まれるユーザーライセンスの数を教えてください
+
+Office 365 開発者向けサブスクリプションには、開発目的専用のライセンスが、管理者用ライセンスも入れて 25 個含まれます。 アプリケーション開発以外の目的にこのサブスクリプションを使用すると、使用許諾契約違反です。 ライセンスの制限の詳細については以下を参照してください[Office 365 開発サブスクリプション使用条件](terms-and-conditions.md)。
 
 ## <a name="how-long-is-my-subscription-good-for-and-when-does-it-expire"></a>サブスクリプションはとれほどの期間有効で、いつ期限切れになりますか?
 
@@ -159,6 +138,26 @@ Microsoft 365 E5 開発者サブスクリプションには、次の項目が含
 Visual Studio Enterpriseまたは Visual Studio Professional を通じてプログラムに参加する場合、Visual Studio のサブスクリプションの有効期限が切れるまでサブスクリプションが自動的に更新します。 
 
 <a name="renew-subscription"> </a>
+
+## <a name="why-dont-you-offer-a-one-year-subscription"></a>1 年間のサブスクリプションをなぜ提供しないのですか？
+
+2019年4月に、開発に積極的に使用している場合は、90日ごとにサブスクリプションを永久的に更新できる新しいモデルに移行しました。 このモデルにより、積極的にソリューションを開発している開発者が、必要な限りサブスクリプションを持てることを担保できるのではないかと考えたのです。 頻繁に開発している場合は、サブスクリプションの有効期限が切れることがありません。 自動的に延長されます。 短期間の開発でサブスクリプションが期限切れになり削除された場合は、新しいサブスクリプションに申し込むことができます。 
+
+あなたがより長い間利用可能であるサブスクリプションを好むならば、Visual Studio ProfessionalまたはVisual Studio Enterpriseのサブスクリプションをお勧めします。 これらのプログラムには、Visual Studio のサブスクリプションが有効なかぎり有効な、無料の Office 365 開発サブスクリプションが含まれます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 
+
+## <a name="how-do-you-determine-whether-a-subscription-can-be-renewed"></a>サブスクリプションを更新できるかどうかが決定する方法は？
+
+お客様が積極的に開発しているかどうかを判断するために、Office 365開発者プログラムおよびOffice 365開発者サブスクリプションでのアクティビティから得た一連のアルゴリズムと遠隔測定法を使用しています。 定期的にこれらのチェックがなされ、あなたのステータスを更新し、サブスクリプションを延長するべきかどうかを決定します。 
+
+開発アクティビティの正確な追跡が何らかの理由でできていないと考えられる場合は、ダッシュ ボードからお知らせいただくことができます。 開発のためにサブスクリプションをどのように使用しているかを示すフォームを送信するには、ダッシュボードの警告で、**Let us know**リンクを次の図に示すように選択します。 私達はあなたの要求を精査し、延長の資格があるかどうかお知らせします。 
+
+<img alt="Screenshot of the subscription expiration text box with the let us know link highlighted" src="images/appeals-ux-for-qa.jpg" width="500"> 
+
+## <a name="how-do-you-define-development-activity"></a>開発アクティビティを定義する方法とは？
+
+Office 365開発者プログラムおよびOffice 365開発者サブスクリプションでのアクティビティで、お客様が積極的に開発しており、サブスクリプションを更新すべきかどうかを判断しています。 
+
+Microsoft により追跡される活動の種類の詳細については、「[Office 365 開発者向けサブスクリプションの使用条件](terms-and-conditions.md)」を参照してください。 
 
 ## <a name="when-my-subscription-is-about-to-expire-can-i-extend-it"></a>サブスクリプションの有効期限が近づいたら延長できますか?
 
@@ -172,14 +171,16 @@ Visual Studio Enterpriseまたは Visual Studio Professional を通じてプロ�
 
 <a name="account-types"> </a>
 
-## <a name="what-account-can-i-use-to-sign-up-for-the-office-365-developer-program"></a>Office 365開発者プログラムにサインアップするには、どのアカウントを使用できますか?
+## <a name="how-can-i-migrate-from-an-office-365-e3-subscription-to-a-microsoft-365-e5-subscription"></a>Office 365 E3 サブスクリプションから Microsoft 365 E5 サブスクリプションに移行するにはどうすればよいですか?
 
-次のいずれかの種類のアカウントを使用して、開発者プログラムにサインアップできます。
+現在、新しい Office 365 開発者プログラムのメンバーのみが、Microsoft 365 E5 開発者サブスクリプションを自動的に取得できます。 既存のユーザーには、将来的に Microsoft 365 E5 サブスクリプションに移行する方法が提供されます。 弊社は、すべての Office 365 開発者プログラムのメンバーが Microsoft 365 E5 に移行できるように取り組んでいます。 
 
-- **Microsoft アカウント** (個人用に作成されたもの) - Outlook (Hotmail)、Messenger、OneDrive、MSN、Xbox Live、Office 365 など、すべてのコンシューマー向け Microsoft 製品とクラウド サービスにアクセスできます。 Outlook.com メールボックスにサインアップすると、Microsoft アカウントが自動的に作成されます。 作成された Microsoft アカウントを使用して、コンシューマー関連の Microsoft クラウド サービスまたは Azure にアクセスできます。 
-- **職場のアカウント** (業務用に管理者が発行したもの) - Azure、Microsoft Intune、Office 365 など、小規模、中規模、エンタープライズ企業レベルの Microsoft クラウド サービスにアクセスできます。 組織としてこのいずれかのサービスにサインアップすると、組織を表すクラウド ベースのディレクトリが Azure Active Directory に自動的にプロビジョニングされます。 詳しくは、[Azure AD ディレクトリの管理](https://docs.microsoft.com/azure/active-directory/active-directory-administer)を参照してください。
-- **Visual Studio ID** (Visual Studio Professional またはEnterprise サブスクリプションの作成) - このオプションを使用して、Visual Studio サブスクライバーとしての完全なメリットを活用できる Visual Studio ギャラリー内から開発者プログラムに参加することをお勧めします。 
- 
+## <a name="can-i-choose-whether-to-have-an-office-365-e3-or-a-microsoft-365-e5-subscription"></a>Office 365 E3 と Microsoft 365 E5 サブスクリプションのどちらを使用するかを選択できますか?
+
+現在、新しい開発者プログラムのメンバーには、Microsoft 365 E5 サブスクリプションが提供されています。 Office 365 E3 サブスクリプションを持っている既存のメンバーは、Microsoft 365 E5 で提供されている新しい機能を必要としない場合、現在のサブスクリプションを保持し、更新を続けることができます。 開発者プログラムのメンバーは、1 つのサブスクリプションのみを持つことができます。  
+
+既存の開発者プログラムのメンバー向けの移行オプションが準備できましたら、移行方法の詳細をご案内します。 
+
 ## <a name="as-a-microsoft-partner-can-i-receive-a-subscription"></a>Microsoft パートナーはサブスクリプションを受け取ることができますか? 
 
 はい。[この手順](office-365-developer-program.md)に従って Office 365 Developer Program に参加し、Office 365 開発者サブスクリプションをセットアップできます。 なお、Visual Studio EnterpriseかVisual Studio Enterprise Professional (MSDN) サブスクリプションを既にお持ちの場合は、特典として Office 365 開発者サブスクリプションが与えられます。 このプログラムにアクセスするには[Visual Studio |特典](https://my.visualstudio.com/benefits)を参照してください。 詳しくは [Visual Studio カスタマー サービス](https://www.visualstudio.com/subscriptions/support/)にご連絡ください。 

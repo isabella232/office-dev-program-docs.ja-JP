@@ -3,12 +3,12 @@ title: Microsoft 365 開発者 サブスクリプションを設定する
 description: 運用環境に依存しないソリューションを構築するためのOffice 365開発者サブスクリプションを設定します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: 224fbae373f28250cb6673353edac19ed4ce0b64
-ms.sourcegitcommit: 9f3e21074fb96c7af93bad8bccbe24707c80c90a
+ms.openlocfilehash: eadab2c1274260c1b5697bcd3f0473d1469a78c2
+ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717518"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275452"
 ---
 # <a name="set-up-a-microsoft-365-developer-subscription"></a>Microsoft 365 開発者 サブスクリプションを設定する 
 
@@ -40,18 +40,16 @@ ms.locfileid: "36717518"
 
 ## <a name="configure-the-subscription"></a>サブスクリプションの設定
 
-1. プロファイル ページで、[**サブスクリプションに移動**] を選択し、ユーザー ID (例: username@domain.onmicrosoft.com) と、開発者サブスクリプションに指定したパスワードでサインインします。
+1. プロファイル ページで [**サブスクリプションに移動**] を選択し、ユーザー ID (例: username@domain.onmicrosoft.com) と、開発者向けサブスクリプション用に指定したパスワードを使用してサインインします。
 
    > [!NOTE] 
-   > サブスクリプションへのサインインには、開発者プログラムの資格情報を使用しないでください。
+   > サブスクリプションへのサインインには、開発者プログラムのアカウント ID を使用しないでください。
 
 2. アプリ起動ツールを使用して、[管理センター](https://admin.microsoft.com/AdminPortal/Home#/homepage)へ移動します。
 
 3. 管理センターのホーム ページで、**設定へ移動**を選択します。 [**Microsoft 365 E5 開発者セットアップ**] ページに移動します。
 
 4. **サインインとメールをカスタマイズ**。 サブスクリプションをドメインに接続することができます。また、作成した既存のサブドメインも使用できます。 準備ができたら、**次へ**を選択します。
-
-  ![サインインとメールページをカスタマイズ](images/8a-set-up-personalize.png)
 
 5. **新規ユーザーの追加**。 ユーザーを追加できます。 テストするために必要な架空のユーザーでも、開発を支援する実際のユーザーでも構いません。 準備ができたら、**次へ**を選択します。
     
@@ -63,8 +61,6 @@ ms.locfileid: "36717518"
 7. **サインインの資格情報を共有**。 サブスクリプションにアクセスする実際のユーザーすべてに、サインインの資格情報をそのユーザーと共有する必要があります。 メール、ダウンロード、または印刷などの方法を選択することができます。 準備ができたら、**次へ**を選択します。
 
 8. **Office アプリのインストール**。 使用しているコンピューターに Office アプリをインストールするオプションがあります。 準備ができたら、**次へ**を選択します。
-
-  ![Office アプリのインストール](images/11-install-office-apps.png)
 
    > [!TIP] 
    > 次回ダッシュ ボードにアクセスするときに、ダッシュ ボードに移動する前に *username@domain*.onmicrosoft.com アカウントでサインインします。
