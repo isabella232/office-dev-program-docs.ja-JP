@@ -3,12 +3,12 @@ title: Office 365 Developer Program FAQ
 description: Office 365 Developer Program に関するよく寄せられる質問。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: acf847e4d6c7f06058b78383ab4e425cee3745d6
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: db2fc80d496238d090b4528e26f6afda7ccc2696
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275445"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962241"
 ---
 # <a name="office-365-developer-program-faq"></a>Office 365 Developer Program FAQ
 
@@ -187,7 +187,7 @@ Microsoft により追跡される活動の種類の詳細については、「[
 
 ## <a name="as-a-full-time-microsoft-employee-can-i-receive-a-subscription"></a>Microsoftのフルタイム従業員の場合は、サブスクリプションを受け取ることができますか？
 
-Microsoft の従業員はこのオファーにサインアップできません。 ただし、Microsoft のすべての社員は、Office E3 Developer へのアクセスを含む無料の Visual Studio (MSDN) サブスクリプションを利用できます。 この特典は [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) から利用できます。
+Microsoft の従業員はこのオファーにサインアップできません。 Microsoft のすべての社員は、Microsoft 365 E5 開発者向けサブスクリプションへのアクセスを含む無料の Visual Studio (MSDN) サブスクリプションを利用できます。 この特典は [Visual Studio | My Benefits](https://my.visualstudio.com/benefits) から利用できます。
 
 ## <a name="as-a-vendor-working-at-microsoft-do-i-qualify-for-a-subscription"></a>Microsoft の業務を行うベンダーにはサブスクリプションの資格がありますか?
 

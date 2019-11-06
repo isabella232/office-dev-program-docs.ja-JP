@@ -3,12 +3,12 @@ title: Office 365 開発者プログラムに参加
 description: Office 365 開発プログラムに参加して、Office 365 のソリューションをご自分の運用環境で独自に開発やテストを行います。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: b8aeda4e17a526c8afffcbb8f055c3c937f74661
-ms.sourcegitcommit: a8fbf7863c2bc26a7467270c732e9d15d3cced2d
+ms.openlocfilehash: d4e049609b8c943d4aa4d5eca12f1b003d2ee8bb
+ms.sourcegitcommit: 039e897679aa937a27a34b13ce94deffcaca5228
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275459"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37962234"
 ---
 # <a name="welcome-to-the-office-365-developer-program"></a>Office 365 開発者プログラムへようこそ
 
