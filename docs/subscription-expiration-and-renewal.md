@@ -1,26 +1,26 @@
 ---
-title: Office 365 開発者プログラム サブスクリプションの有効期限と更新
+title: Microsoft 365 開発者プログラム サブスクリプションの有効期限と更新
 description: 期限切れの開発者サブスクリプションを更新する方法について説明します。
 ms.date: 04/01/2019
 localization_priority: Priority
-ms.openlocfilehash: f0be068369de8456bea86094139292a723938e31
-ms.sourcegitcommit: 2bc24a4f9dabc39b293698342ce0bf85bd117cdf
+ms.openlocfilehash: 0aa7907a7a2dbf1e1dec4fe5bf7192d8c4b23a54
+ms.sourcegitcommit: 9c7a1aa1c562adb350fefc8068e154fa6f9a4ee3
 ms.translationtype: HT
 ms.contentlocale: ja-JP
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36747118"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600796"
 ---
-# <a name="office-365-developer-program-subscription-expiration-and-renewal"></a>Office 365 開発者プログラム サブスクリプションの有効期限と更新
+# <a name="microsoft-365-developer-program-subscription-expiration-and-renewal"></a>Microsoft 365 開発者プログラム サブスクリプションの有効期限と更新
 
-Office 365 開発者プログラムのメンバーシップには、無料の Office 365 開発者サブスクリプションが含まれています。 開発者サブスクリプションは開発アクティビティに基づいて更新可能です。ただし、一部の古いサブスクリプションは期限切れになります。 この記事では、更新可能なサブスクリプションと更新できないサブスクリプションの違い、および有効期限が切れた場合のサブスクリプションのアップグレード方法について説明します。
+Microsoft 365 開発者プログラムのメンバーシップには、無料の Office 365 E3 または Microsoft 365 E5 開発者サブスクリプションが含まれています。 開発者サブスクリプションは開発アクティビティに基づいて更新可能です。ただし、一部の古いサブスクリプションは期限切れになります。 この記事では、更新可能なサブスクリプションと更新できないサブスクリプションの違い、および有効期限が切れた場合のサブスクリプションのアップグレード方法について説明します。
 
 ## <a name="expiring-vs-renewable-developer-subscriptions"></a>期限切れ vs. 更新可能 開発者サブスクリプション
 
-Office 365 開発者プログラムのリリースに伴い、期限切れになると更新できない12 か月間の開発者サブスクリプションが提供されました。 2018 年 1 月、一部の開発者プログラム メンバーに対して、更新可能なサブスクリプションの提供を開始しました。
+Microsoft 365 開発者プログラムのリリースに伴い、期限切れになると更新できない 12 か月間の開発者サブスクリプションが提供されました。 2018 年 1 月、一部の開発者プログラム メンバーに対して、更新可能なサブスクリプションの提供を開始しました。
 
 2019年 4 月から、更新可能な 90 日間のサブスクリプションを提供しています。
 
-[Office 365 開発者プログラム ダッシュボード](https://developer.microsoft.com/ja-JP/office/profile)を表示すると、更新可能なサブスクリプションがあるかどうかを確認できます。
+[Microsoft 365 開発者プログラム ダッシュボード](https://aka.ms/DevProgramDashboard)を表示すると、更新可能なサブスクリプションがあるかどうかを確認できます。
 
 ## <a name="non-renewable-subscriptions"></a>更新できないサブスクリプション
 
@@ -38,7 +38,7 @@ Office 365 開発者プログラムのリリースに伴い、期限切れにな
 
 ## <a name="renewable-subscriptions"></a>更新可能なサブスクリプション
 
-2018 年 8 月以降にサブスクリプションにサインアップした場合、更新可能なサブスクリプションを取得している可能性があります。 サブスクリプションがアクティブでない場合、ダッシュ ボードに次の警告が表示されます。 
+2018 年 8 月以降にサブスクリプションにサインアップした場合、更新可能なサブスクリプションを取得している可能性があります。 サブスクリプションがアクティブでない場合、ダッシュボードに次の警告が表示されます。 
 
 <img alt="Screenshot of a text box with the title This subscription is inactive and expires soon" src="images/15-renewable-notice-yellow.png" width="500"> 
 
@@ -58,9 +58,9 @@ Office 365 開発者プログラムのリリースに伴い、期限切れにな
 
 現在のサブスクリプションから新しいサブスクリプションにデータを移行するには、次のリソースを参照してください。
 
-- [1 つの Office 365 テナントから別のテナントにメールボックスを移行する方法](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-- [PowerShell を使用して Office 365 への段階的な移行を実行する](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
-- [サード パーティを介さずに別の Office 365 サブスクリプションに移行する](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
+- [あるテナントから別のテナントにメールボックスを移行する方法](https://docs.microsoft.com/exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+- [PowerShell を使用して段階的な移行を実行する](https://docs.microsoft.com/office365/enterprise/powershell/use-powershell-to-perform-a-staged-migration-to-office-365)
+- [サード パーティを介さずに別のサブスクリプションに移行する](https://social.technet.microsoft.com/Forums/en-US/ee507441-eb91-4b0a-ba6c-5bd9bb8c71b1/migration-from-one-o365-tenant-to-another-o365-without-third-party?forum=onlineservicesmigrationandcoexistence)
 
 ## <a name="how-do-i-know-if-my-subscription-was-deleted"></a>自分のサブスクリプションが削除されたかどうか、どうすれば確認できますか。
 
@@ -70,10 +70,10 @@ Office 365 開発者プログラムのリリースに伴い、期限切れにな
 
 ## <a name="see-also"></a>関連項目
 
-- [Office 365 Developer Program に参加する](office-365-developer-program.md)
-- [Office 365 開発者サブスクリプションのセットアップ](office-365-developer-program-get-started.md)
-- [サブスクリプションを使用して Office 365 ソリューションを構築する](build-office-365-solutions.md)
-- [Office 365 開発者プログラム FAQ](office-365-developer-program-faq.md)
+- [Microsoft 365 開発者プログラムに参加する](microsoft-365-developer-program.md)
+- [Microsoft 365 開発者サブスクリプションを設定する](microsoft-365-developer-program-get-started.md)
+- [サブスクリプションを使用して Microsoft 365 ソリューションを構築する](build-microsoft-365-solutions.md)
+- [Microsoft 365 開発者プログラムの FAQ](microsoft-365-developer-program-faq.md)
 
 
 
