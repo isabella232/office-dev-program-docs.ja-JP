@@ -1,14 +1,14 @@
 - name: Microsoft 365 開発者プログラム
   href: microsoft-365-developer-program.md
-- name: 開発者向けサブスクリプションをセットアップする
+- name: 開発者向けサブスクリプションのセットアップ
   href: microsoft-365-developer-program-get-started.md
 - name: ソリューションの構築
   href: build-microsoft-365-solutions.md
-- name: サンプルデータパックを使用する
+- name: サンプル データ パックの使用
   href: install-sample-packs.md
 - name: サブスクリプションの有効期限と更新
   href: subscription-expiration-and-renewal.md
-- name: 開発者プログラムに関する FAQ
+- name: 開発者プログラムの FAQ
   href: microsoft-365-developer-program-faq.md
 - name: 使用条件
   href: terms-and-conditions.md
